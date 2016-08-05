@@ -15,7 +15,6 @@ Bundle 'git://github.com/Shougo/neocomplcache.git'
 Bundle 'git://github.com/mattn/emmet-vim.git'
 Bundle 'git://github.com/Raimondi/delimitMate.git'
 Bundle 'git://github.com/ervandew/supertab.git'
-Bundle 'git://github.com/Valloric/YouCompleteMe.git'
 " snippets
 Bundle 'git://github.com/garbas/vim-snipmate.git'
 Bundle 'git://github.com/honza/vim-snippets.git'
