@@ -41,7 +41,8 @@ Bundle 'git://github.com/nathanaelkane/vim-indent-guides.git'
 " IDE features
 "--------------
 Bundle 'git://github.com/scrooloose/nerdtree.git'
-Bundle 'git://github.com/humiaozuzu/TabBar.git'
+" Bundle 'git://github.com/humiaozuzu/TabBar.git'
+Bundle 'git://github.com/fholgado/minibufexpl.vim.git'
 Bundle 'git://github.com/majutsushi/tagbar.git'
 Bundle 'git://github.com/mileszs/ack.vim.git'
 Bundle 'git://github.com/kien/ctrlp.vim.git'

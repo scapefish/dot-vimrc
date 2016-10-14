@@ -111,6 +111,16 @@ hi Tb_VisibleChanged guifg=green ctermbg=252 ctermfg=white
 " easy-motion
 let g:EasyMotion_leader_key = '<Leader>'
 
+" minibufexpl
+let g:miniBufExplMapWindowNavVim = 1
+let g:miniBufExplMapWindowNavArrows = 1
+let g:miniBufExplMapCTabSwitchBufs = 1
+let g:miniBufExplModSelTarget = 1
+let g:miniBufExplMoreThanOne=0
+
+map <F11> :MBEbp<CR>
+map <F12> :MBEbn<CR>
+
 " Tagbar
 let g:tagbar_left=1
 let g:tagbar_width=30
